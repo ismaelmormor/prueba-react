@@ -1,0 +1,19 @@
+.logo{
+    width: 10%;
+    height: 10%;
+    background: black;
+    padding: 1.5%;
+    border-radius: 1.4em;
+    margin-left: 40%;
+}
+
+.select-lang{
+    appearance: none;
+    color: #fff;
+    border: none;
+    background-color: black;
+    padding: 0.7em;
+    border-radius: 0.7em;
+    margin: 0.2em;
+    text-decoration: none;
+}

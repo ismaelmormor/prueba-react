@@ -1,7 +1,7 @@
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import Home from "./screens/Home";
 import Contact from "./screens/Contact";
-import NavBar from "./components/NavBar";
+<script src="https://kit.fontawesome.com/24c9dde649.js" crossorigin="anonymous"></script>
 
 function App() {
   return <div className="">
